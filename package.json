@@ -1,0 +1,11 @@
+{
+  "name": "devops-build",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s . -l 80"
+  },
+  "author": "Sri Vignesh",
+  "license": "ISC",
+  "description": "A simple Web App"
+}
